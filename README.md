@@ -14,6 +14,7 @@ Whether you’re a web designer looking for a way to achieve pixel-perfect websi
 There are many other [features](https://elementor.com/features/?utm_source=github-repo&utm_medium=link&utm_campaign=readme) to help you build better websites. Join the elite web professionals who enjoy [Elementor Pro](https://elementor.com/pro/?utm_source=github-repo&utm_medium=link&utm_campaign=readme)!
 
 ## Developer API
+
 Elementor website builder is free and open source. It’s the perfect plugin to be extended and integrated further. It was created and developed with the developer in mind, and we have already seen some truly remarkable addons being developed.
 
 To help you get started and learn just how to integrate with Elementor, we have created the official [Elementor Developers Center](https://developers.elementor.com/?utm_source=github-repo&utm_medium=link&utm_campaign=readme). Check the [Developers Blog](https://developers.elementor.com/blog/?utm_source=github-repo&utm_medium=link&utm_campaign=readme) to discover the latest information from the programmers working on the newest Elementor versions, or visit the [Developers Docs](https://developers.elementor.com/docs/?utm_source=github-repo&utm_medium=link&utm_campaign=readme) to learn how to extend Elementor core and create your own addons.
